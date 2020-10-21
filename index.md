@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gzh99/gzh99github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gzh99/gzh99github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
+<table border="1" align="center" cellpadding="10" width="800">
+<tr>
+    <th colspan="7" bgcolor="BurlyWood" >我的个人简介</th>
+</tr>
+ 
+<tr>
+    <th bgcolor="BurlyWood">姓名:</th>
+    <td> 郭昭辉</td>
+    <th bgcolor="BurlyWood">年龄:</th>
+    <td>21</td>
+    <th bgcolor="BurlyWood">民族:</th>
+    <td>汉</td>
+    
+</tr>
+ 
+<tr>
+    <th bgcolor="BurlyWood">出生日期:</th>
+    <td>1999.08.16</td>
+    <th bgcolor="BurlyWood">政治面貌:</th>
+    <td>团员</td>
+    <th bgcolor="BurlyWood">学历:</th>
+    <td>本科</td>
+</tr>
+ 
+<tr>
+    <th bgcolor="BurlyWood">专业:</th>
+    <td>信息与计算科学</td>
+    <th bgcolor="BurlyWood">毕业学校:</th>
+    <td>湖南工商大学</td>
+    <th bgcolor="BurlyWood">联系方式:</th>
+    <td>15197815136</td>
+</tr>
+ 
+<tr>
+     <th bgcolor="BurlyWood">爱好:</th>
+     <td>看电影 旅游</td>
+     <th bgcolor="BurlyWood">籍贯:</th>
+     <td>湖南娄底</td>
+     <th bgcolor="BurlyWood">邮箱:</th>
+     <td colspan="2"<p><a  href="mailto:1587717050@qq.com?subject=Hello%20again">1587717050@qq.com </a></p></td>
+</tr>
+ 
+<tr>
+     <th height="160" bgcolor="BurlyWood">专业技能:</th>
+     <td colspan="6">
+   <p>熟悉JAVA基础</p>
+   <p>熟悉Word PPT等办公软件</p>
+   <p>熟悉绝大多数编程软件</p>
+    </td>
+</tr>
+ 
+<tr>
+     <th height="160" bgcolor="BurlyWood"> 自我介绍:</th>
+     <td colspan="6">
+    <p>在性格方面,我活泼开朗,善于与人交流,愿意跟别人交流想法,对工作充满热情,能积极有效地与他人建立沟通渠道,协调 you sort it out.
